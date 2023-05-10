@@ -24,6 +24,16 @@ Other 16x2 character display tutorials:
 
 ![THUMB_3d_cube_on_character_display](https://github.com/upiir/3d_on_character_display/assets/117754156/4a27d4d4-7379-476e-8420-ace10349c40c)
 
+Small animations:
+
+LCD:
+![3d_on_character_display_lcd](https://github.com/upiir/3d_on_character_display/assets/117754156/c97fa9a3-e4ff-4345-84d7-451c376429b3)
+
+OLED:
+![3d_on_character_display_oled](https://github.com/upiir/3d_on_character_display/assets/117754156/3ad5e0dc-cd6c-4948-93a8-d05733f7fd71)
+
+VFD:
+![3d_on_character_display_vfd](https://github.com/upiir/3d_on_character_display/assets/117754156/f669ae7a-812a-4eed-9f09-8b5ad8685d03)
 
 
 Screenshots from the video:
