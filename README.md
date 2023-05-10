@@ -22,6 +22,8 @@ Other 16x2 character display tutorials:
 - small display - BIG DIGITS - https://youtu.be/SXSujfeN_QI
 - Smooth Gauge - No Custom Characters - https://youtu.be/MEhJtpkjwnc
 
+The video is sponsored by PCBway. If you use this link, you can get 10 PCBs for free, only paying for shipping - https://www.pcbway.com/setinvite.aspx?inviteid=572577
+
 ![THUMB_3d_cube_on_character_display](https://github.com/upiir/3d_on_character_display/assets/117754156/4a27d4d4-7379-476e-8420-ace10349c40c)
 
 Small animations:
